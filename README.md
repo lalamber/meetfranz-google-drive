@@ -3,7 +3,7 @@ A Google Drive recipe for Franz.
 
 I found a few others on GitHub, but it seems that since those were created, Franz (or Electron) has been updated, and in order to show the files in Google Drive there needs to be an additional few lines of JavaScript in webview.js.
 
-TO INSTALL:
+# TO INSTALL:
 1. Clone/Download this repo.
 2. Rename it to 'gdrive'
 3. Copy the folder and it's contents to whichever of these directories is right for your OS:
